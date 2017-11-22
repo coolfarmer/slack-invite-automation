@@ -43,7 +43,7 @@ h1{
 font-family: 'Open Sans', sans-serif;
 color: #fff;
 text-align: center;
-font-size: 50px;
+font-size: 65px;
 font-weight: 300;
 margin: 0 0 10px 0;
 }
@@ -55,16 +55,15 @@ font-weight: 700;
 }
 
 h2{
-	text-align: center;
-	font-weight: 300;
-	font-size: 20px;
-		color: #ffffff;
-
+text-align: center;
+font-weight: 400;
+font-size: 22px;
+color: #ffffff;
 }
 
 h2 strong{
-	font-weight: 700;
-	font-style: italic;
+font-weight: 700;
+font-style: italic;
 }
 
 
